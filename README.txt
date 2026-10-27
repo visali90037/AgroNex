@@ -137,7 +137,3 @@ For the firmware, open the sketch in `firmware/` with the Arduino IDE, select yo
 3. Kansal K., Gupta T., Singh A., Majumdar R. (2019). *Image Processing of Vegetables and Predicting Disease.* ISSN: 2278-3075
 4. Kurtulmus E., Arslan B., Kurtulmus F. (2022). *Deep learning for proximal soil sensor development towards smart irrigation.*
 5. Hafeez A., Husain M.A., Singh S.P., Chauhan A., Khan M.T., Soni S.K. (2022). *Implementation of drone technology for farm monitoring and pesticide spraying.*
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file in this repository for details.
