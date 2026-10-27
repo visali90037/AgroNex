@@ -94,7 +94,7 @@ AgroNex/
 
 ```bash
 # Clone the repository
-git clone https://github.com/visali/AgroNex.git
+git clone https://github.com/visali90037/AgroNex.git
 cd AgroNex
 
 # ML environment
