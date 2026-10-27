@@ -1,4 +1,4 @@
-# AgroNex: Integrated Soil Analytics and Precision Crop Management
+ # AgroNex: Integrated Soil Analytics and Precision Crop Management
 
 > Soil sensors and drone imagery, analysed together by deep learning, give farmers one simple report in their own language.
 
@@ -141,4 +141,3 @@ For the firmware, open the sketch in `firmware/` with the Arduino IDE, select yo
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file in this repository for details.
-
